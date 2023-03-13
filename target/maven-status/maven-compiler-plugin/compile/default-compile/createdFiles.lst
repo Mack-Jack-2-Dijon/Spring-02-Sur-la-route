@@ -1,0 +1,3 @@
+com\wildcodeschool\doctor\model\Doctor.class
+com\wildcodeschool\doctor\controller\DoctorController.class
+com\wildcodeschool\doctor\DoctorWhoApplication.class
